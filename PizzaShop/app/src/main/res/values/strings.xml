@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PizzaShop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="pepperoni_desc">Колбаса салями, сыр,\nогурец, помидор,\nтоматный соус</string>
+    <string name="ostraya_desc">Колбаса, сыр,\nогурец, помидор,\nострый соус</string>
+    <string name="sirnaya_desc">Сыр чеддер, сыр другой,\nогурец, помидор,\nсырный соус</string>
+    <string name="margarita_desc">Ветчина, сыр,\nогурец, помидор,\nмаргаритный соус</string>
+
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+        <item>Пенза</item>
+
+    </string-array>
+</resources>
